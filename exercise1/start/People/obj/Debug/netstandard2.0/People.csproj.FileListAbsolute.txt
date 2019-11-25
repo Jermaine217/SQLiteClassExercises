@@ -1,0 +1,11 @@
+D:\Projects\SQLiteClassExercises\exercise1\start\People\bin\Debug\netstandard2.0\People.deps.json
+D:\Projects\SQLiteClassExercises\exercise1\start\People\bin\Debug\netstandard2.0\People.dll
+D:\Projects\SQLiteClassExercises\exercise1\start\People\bin\Debug\netstandard2.0\People.pdb
+D:\Projects\SQLiteClassExercises\exercise1\start\People\obj\Debug\netstandard2.0\People.csprojAssemblyReference.cache
+D:\Projects\SQLiteClassExercises\exercise1\start\People\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\SQLiteClassExercises\exercise1\start\People\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projects\SQLiteClassExercises\exercise1\start\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
+D:\Projects\SQLiteClassExercises\exercise1\start\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
+D:\Projects\SQLiteClassExercises\exercise1\start\People\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\SQLiteClassExercises\exercise1\start\People\obj\Debug\netstandard2.0\People.dll
+D:\Projects\SQLiteClassExercises\exercise1\start\People\obj\Debug\netstandard2.0\People.pdb
